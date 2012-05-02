@@ -7,4 +7,5 @@ _ReSharper.*
 *.resharper.user 
 *.resharper 
 *.suo 
-*.cache 
+*.cache
+*.merge
