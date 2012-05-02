@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinetico.TDD_DataLayerSample.Tests", "..\..\TDD_DataLayerSample\Kinetico.TDD_DataLayerSample.Tests\Kinetico.TDD_DataLayerSample.Tests.csproj", "{9B8FA4F4-9D2D-4624-88AC-66EC5C5E49B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinetico.TDD_DataLayerSample.Gateway", "..\..\TDD_DataLayerSample\Kinetico.TDD_DataLayerSample.Gateway\Kinetico.TDD_DataLayerSample.Gateway.csproj", "{7E7B001D-F04B-4468-8457-CE14820C54B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B8FA4F4-9D2D-4624-88AC-66EC5C5E49B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8FA4F4-9D2D-4624-88AC-66EC5C5E49B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8FA4F4-9D2D-4624-88AC-66EC5C5E49B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8FA4F4-9D2D-4624-88AC-66EC5C5E49B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7B001D-F04B-4468-8457-CE14820C54B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7B001D-F04B-4468-8457-CE14820C54B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7B001D-F04B-4468-8457-CE14820C54B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7B001D-F04B-4468-8457-CE14820C54B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
